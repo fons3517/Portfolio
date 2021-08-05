@@ -57,10 +57,15 @@ body {
     margin-left: 25px;
 }
 
+.profilePhoto {
+    max-height: 100px;
+}
+
 a {
-    color: blue;
+    color: rgb(80, 13, 80);
     text-decoration: none;
     font-size: 2em;
+
 }
 
 p {
@@ -79,6 +84,10 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+}
+.float-left:focus {
+    outline: greenyellow;
+    background-color: greenyellow ;
 }
 
 .float-right {
@@ -140,6 +149,7 @@ p {
 .main_section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+
 }
 
 /* Adding #mywork to css to add flexbox*/
@@ -159,16 +169,7 @@ p {
     font-size: 20px;
 }
 
-nav {
 
-}
-
-/* .info {
-    padding: 25;
-    border: 10%
-} */
-
-#list {
 
 /* Media Querries */
 
