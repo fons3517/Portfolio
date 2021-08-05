@@ -1,0 +1,30 @@
+* {
+    color: black;
+    background-color:mintcream;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    padding: 20px;
+}
+
+nav {
+
+}
+
+.info {
+    padding: 25;
+    border: 10%
+}
+
+#list {
+
+/* Media Querries */
+
+@media screen and {
+    
+}
