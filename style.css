@@ -93,6 +93,13 @@ p {
     margin-left: 20px;
 }
 
+aside h2 {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: 50px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,10 +124,15 @@ p {
     text-align: center;
 }
 
+
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.benefit-section img:hover {
+    display: contents;
 }
 
 
