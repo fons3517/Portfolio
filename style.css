@@ -61,6 +61,7 @@ body {
     max-height: 100px;
 }
 
+/* changed color to all a tags*/
 a {
     color: rgb(80, 13, 80);
     text-decoration: none;
@@ -81,18 +82,23 @@ p {
     background-position: center;
 }
 
-.float-left {
+/*.float-left {
     float: left;
     margin-right: 25px;
-}
-.float-left:focus {
-    outline: greenyellow;
-    background-color: greenyellow ;
-}
+}*/
 
-.float-right {
+.float-right:hover {
+
     float: right;
     margin-left: 25px;
+}
+
+.hide {
+    display: none;
+}
+
+.Hover:active {
+    background-color: greenyellow;
 }
 
 .content {
