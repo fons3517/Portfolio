@@ -183,6 +183,27 @@ aside h2 {
 
 /* Media Querries */
 
-@media screen and {
+@media screen and (max-width: 669px) {
+    #mywork {
+        display: flex;
+        flex: 0 5 0;
+        justify-content: flex-end;
+    }
+    .main_section {
+        width: 100%;
+       /* margin-bottom: 20px;
+        padding: 50px;
+        height: 300px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: #0072bb;
+        color: #ffffff;*/
+    }
     
+    .main_section img {
+        max-height: 200px;
+    }
+    
+    .main_section h2 {
+        margin-bottom: 20px;
+        font-size: 36px;
 }
