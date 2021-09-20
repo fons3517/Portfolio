@@ -6,10 +6,10 @@
    2. CSS
    3. Mobile-responsive Design
 
-## Screenshot and links included below
+## Screenshot and link included below
 
 [Portfolio Remastered](https://fons3517.github.io/Portfolio/)
-![Image of updated Portfolio page]()
+![Image of updated Portfolio page](./Capture.JPG)
 
 #### Due Date
 08/22/21
