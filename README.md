@@ -102,7 +102,7 @@ Your GitHub profile must contain at least the following items:
 
 Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
 
-Your resume should include:
+# YOUR RESUME SHOULD INCLUDE!!!
 
 * a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
 
