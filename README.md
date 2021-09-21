@@ -9,7 +9,8 @@
 ## Screenshot and link included below
 
 [Portfolio Remastered](https://fons3517.github.io/Portfolio/)
-![Image of updated Portfolio page](./Capture.JPG)
+![Screenshot of updated Portfolio page](/assets/img/Capture.JPG)
+![Screenshot 2](/assets/img/portfolio/Capture.JPG)
 
 #### Due Date
 08/22/21
