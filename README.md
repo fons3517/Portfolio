@@ -5,11 +5,12 @@ Portfolio Remastered
 ## Description
 
 The projects inside this portfolio have been created by me, in class over a 2 month time span. Each application has been developed while learning to implement all technologies applied.
+
 ### Technologies Incorporated
 
-   1. HTML 
-   2. CSS/Bootstrap Template
-   3. @mediaQueries for Mobile-responsive Design
+1.  HTML
+2.  CSS/Bootstrap Template
+3.  @mediaQueries for Mobile-responsive Design
 
 ### Live link/Screenshots
 
@@ -19,3 +20,6 @@ The projects inside this portfolio have been created by me, in class over a 2 mo
 ![Screenshot 2](/assets/img/portfolio/SkillsPort2.JPG)
 ![Screenshot 3](/assets/img/portfolio/Portfolio3.JPG)
 
+but it lacks a LinkedIn profile link.
+
+Your Github profile lacks a photo or avatar, email, and link to your deployed portfolio. It should also be following at least a few classmates and/or other developers.
