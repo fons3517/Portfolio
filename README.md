@@ -19,5 +19,5 @@ This is my up-to-date portfolio. The portfolio contains assignments completed by
 [Portfolio Remastered Live:](https://fons3517.github.io/Portfolio/)
 
 ![Screenshot of updated Portfolio page](/assets/img/Capture.JPG)
-![Screenshot 2](/assets/img/portfolio/PortfolioSection.JPG)
-![Screenshot 3](/assets/img/portfolio/ContactSection.JPG)
+![Screenshot 2](/assets/img/PortfolioSection.JPG)
+![Screenshot 3](/assets/img/ContactSection.JPG)
